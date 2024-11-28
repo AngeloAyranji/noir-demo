@@ -10,12 +10,12 @@ This project serves as a practical guide to:
 - Verifying proofs generated from Noir circuits
 
 ## Project Structure
-.
-├── src/              # Main directory containing Noir circuits
-│   └── main.nr       # Main circuit implementation (circuit entry point)
-├── Prover.toml       # Prover inputs configuration
-├── Nargo.toml        # Noir project configuration
-└── README.md         # Project documentation
+
+├── src/ # Main directory containing Noir circuits\n
+│   └── main.nr # Main circuit implementation (circuit entry point)\n
+├── Prover.toml # Prover inputs configuration\n
+├── Nargo.toml # Noir project configuration\n
+└── README.md # Project documentation
 
 ## Prerequisites
 
